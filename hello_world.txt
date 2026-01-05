@@ -1,5 +1,2 @@
 hello eveyone how was your day lets learn to use git and github
-
-
-
-
+abcdefg
